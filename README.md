@@ -1,2 +1,2 @@
 # Sigma-client-script-rost-alpha-
-Skjskakkaksksksjsjsjdjdjdjdj
+Sigma-client-script-rost-alpha-
